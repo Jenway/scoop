@@ -5,17 +5,15 @@
 <!-- Uncomment the following line after replacing placeholders -->
 [![Tests](https://github.com/Jenway/scoop/actions/workflows/ci.yml/badge.svg)](https://github.com/Jenway/scoop/actions/workflows/ci.yml) [![Excavator](https://github.com/Jenway/scoop/actions/workflows/excavator.yml/badge.svg)](https://github.com/Jenway/scoop/actions/workflows/excavator.yml)
 
-Template from [Scoop](https://scoop.sh), the Windows command-line installer.
-
 ## Usage
 
 To add this bucket to scoop, run the following command:
 
 ``` PowerShell
-scoop bucket add jenway_scoop https://github.com/Jenway/scoop.git
+scoop bucket add Jenway_scoop https://github.com/Jenway/scoop.git
 ```
 
-To install apps from this bucket, run `scoop install <app>`. To update all apps from this bucket, run `scoop update jenway_scoop`.
+To install apps from this bucket, run `scoop install Jenway_scoop/<app>`
 
 ## Apps
 
@@ -34,6 +32,12 @@ To install apps from this bucket, run `scoop install <app>`. To update all apps 
 |阿里云盘 |See its [homepage](https://www.aliyundrive.com/).| `scoop install jenway_scoop/aDrive` |
 |百度网盘 |See its [homepage](https://pan.baidu.com/).| `scoop install jenway_scoop/baidunetdisk` |
 |网易云音乐|See its [homepage](https://music.163.com/).| `scoop install jenway_scoop/neteasemusic` |
+
+## CopyRight
+
+This project's Template from [Scoop](https://scoop.sh), the Windows command-line installer.
+
+The DoradoUtils.psm1 is from [Dorado](https://github.com/chawyehsu/dorado)
 
 ## License
 
