@@ -24,7 +24,7 @@ To install apps from this bucket, run `scoop install Jenway_scoop/<app>`
 |Clash For Windows |You Know What It Is.| `scoop install jenway_scoop/clash-for-windows` |
 |Clash for Windows_Chinese |You Know What It Is.| `scoop install jenway_scoop/clash-for-windows-chinese` |
 |enigma-virtual-box|Application virtualization system for Windows.| `scoop install jenway_scoop/enigma-virtual-box` |
-|openjdk|from ScoopInstaller/Java |`scoop install jenway_scoop/openjdk|
+|openjdk|from ScoopInstaller/Java |`scoop install jenway_scoop/openjdk` |
 ### Daily Use
 
 | App Name | Description | Install Command |
