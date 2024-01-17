@@ -156,6 +156,7 @@ function Dismount-ExternalRuntimeData {
 }
 
 Export-ModuleMember `
+
     -Function `
         Mount-ExternalRuntimeData, Dismount-ExternalRuntimeData, `
         Invoke-ExternalCommand2
