@@ -21,11 +21,28 @@ To install apps from this bucket, run `scoop install Jenway_scoop/<app>`
 
 | App Name | Description | Install Command |
 | -------- | ----------- | --------------- |
-|Clash For Windows |You Know What It Is.| `scoop install jenway_scoop/clash-for-windows` |
-|Clash for Windows_Chinese |You Know What It Is.| `scoop install jenway_scoop/clash-for-windows-chinese` |
 |enigma-virtual-box|Application virtualization system for Windows.| `scoop install jenway_scoop/enigma-virtual-box` |
 |openjdk|from ScoopInstaller/Java |`scoop install jenway_scoop/openjdk` |
+
 ### Daily Use
+
+| App Name | Description | Install Command |
+| -------- | ----------- | --------------- |
+|KikoPlay  | NOT ONLY A Full-Featured Danmu Player 不仅仅是全功能弹幕播放器 | `scoop install jenway_scoop/kikoplay` |
+|mikan_flutter| Flutter 驱动的三方 蜜柑计划（https://mikanani.me） APP | `scoop install jenway_scoop/mikan_flutter` |
+
+### Deprecated
+
+These apps are deprecated because they are no longer maintained or have been replaced by other apps.
+
+| App Name | Description | Install Command |
+| -------- | ----------- | --------------- |
+|Clash For Windows |You Know What It Is.| `scoop install jenway_scoop/clash-for-windows` |
+|Clash for Windows_Chinese |You Know What It Is.| `scoop install jenway_scoop/clash-for-windows-chinese` |
+
+These apps are deprecated because scoop seems not really suitable for handling them.
+
+> Now I recommend using [winget](https://github.com/microsoft/winget-cli) to install these GUI apps. 
 
 | App Name | Description | Install Command |
 | -------- | ----------- | --------------- |
