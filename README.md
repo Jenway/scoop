@@ -30,6 +30,8 @@ To install apps from this bucket, run `scoop install Jenway_scoop/<app>`
 | -------- | ----------- | --------------- |
 |KikoPlay  | NOT ONLY A Full-Featured Danmu Player 不仅仅是全功能弹幕播放器 | `scoop install jenway_scoop/kikoplay` |
 |mikan_flutter| Flutter 驱动的三方 蜜柑计划（https://mikanani.me） APP | `scoop install jenway_scoop/mikan_flutter` |
+|Monaco-NF-Mono|see [thep0y/monaco-nerd-font](https://github.com/thep0y/monaco-nerd-font).| `scoop install jenway_scoop/Monaco-NF-Mono` |
+|Monaco-NF-Mono-Ligaturized|see [thep0y/monaco-nerd-font](https://github.com/thep0y/monaco-nerd-font). | `scoop install jenway_scoop/Monaco-NF-Mono-Ligaturized` |
 
 ### Deprecated
 
