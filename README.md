@@ -23,6 +23,9 @@ To install apps from this bucket, run `scoop install Jenway_scoop/<app>`
 | -------- | ----------- | --------------- |
 |enigma-virtual-box|Application virtualization system for Windows.| `scoop install jenway_scoop/enigma-virtual-box` |
 |openjdk|from ScoopInstaller/Java |`scoop install jenway_scoop/openjdk` |
+|opentrace|A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。 | `scoop install jenway_scoop/opentrace` |
+|Monaco-NF-Mono|see [thep0y/monaco-nerd-font](https://github.com/thep0y/monaco-nerd-font).| `scoop install jenway_scoop/Monaco-NF-Mono` |
+|Monaco-NF-Mono-Ligaturized|see [thep0y/monaco-nerd-font](https://github.com/thep0y/monaco-nerd-font). | `scoop install jenway_scoop/Monaco-NF-Mono-Ligaturized` |
 
 ### Daily Use
 
@@ -30,8 +33,8 @@ To install apps from this bucket, run `scoop install Jenway_scoop/<app>`
 | -------- | ----------- | --------------- |
 |KikoPlay  | NOT ONLY A Full-Featured Danmu Player 不仅仅是全功能弹幕播放器 | `scoop install jenway_scoop/kikoplay` |
 |mikan_flutter| Flutter 驱动的三方 蜜柑计划（https://mikanani.me） APP | `scoop install jenway_scoop/mikan_flutter` |
-|Monaco-NF-Mono|see [thep0y/monaco-nerd-font](https://github.com/thep0y/monaco-nerd-font).| `scoop install jenway_scoop/Monaco-NF-Mono` |
-|Monaco-NF-Mono-Ligaturized|see [thep0y/monaco-nerd-font](https://github.com/thep0y/monaco-nerd-font). | `scoop install jenway_scoop/Monaco-NF-Mono-Ligaturized` |
+| BlockTheSpot | Video, audio & banner adblock/skip for Spotify | `scoop install jenway_scoop/blockthespot` |
+
 
 ### Deprecated
 
